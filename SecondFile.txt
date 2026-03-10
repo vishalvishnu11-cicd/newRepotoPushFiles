@@ -1,2 +1,1 @@
-This is the text file created 
-This line added from the branch
+This is the text file created -- Editing the first line

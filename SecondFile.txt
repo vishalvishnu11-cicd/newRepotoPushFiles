@@ -1,1 +1,2 @@
 This is the text file created 
+This is the line added from conflictBranch
